@@ -1,3 +1,8 @@
 <Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="README.md" />
+  </Folder>
+  <Project Path="KooliProjekt.Application/KooliProjekt.Application.csproj" />
+  <Project Path="KooliProjekt.WebAPI/KooliProjekt.WebAPI.csproj" />
   <Project Path="programeerimine 2/programeerimine 2.csproj" />
 </Solution>
